@@ -1,0 +1,12 @@
+[package]
+name = "jsportal"
+version = "0.1.0"
+authors = ["max <frismo98@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "a set of functions for interroping between javascript and rust"
+readme = "readme.md"
+keywords = ["webassembly", "webasm", "javascript", "canvas"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
